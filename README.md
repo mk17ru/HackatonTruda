@@ -1,3 +1,3 @@
 # HackatonTruda
-Just a group of guys were participating in hakaton.
-Did a pretty good job: did a regression ML model for predicting prices for vacancies.
+Just a group of guys were participating in hackaton.
+Did a pretty good job so far: did a `regression ML model` for predicting prices for vacancies.
